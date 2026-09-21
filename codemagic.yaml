@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: app.maur.grids.cathering
+        bundle_identifier: com.main.apps.copper.higham
       vars:
         APP_STORE_CONNECT_KEY: key
         APP_STORE_APPLE_ID: 6814457852
